@@ -1,0 +1,31 @@
+{
+  "name": "js-code-snippets-patterns",
+  "version": "1.0.0",
+  "description": "For learning and testing and storing js code snippets and patterns",
+ "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev":"nodemon --watch src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serhii1205/js-code-snippets-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serhii1205/js-code-snippets-patterns/issues"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-prettier": "^8.0.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "nodemon": "^2.0.0",
+    "prettier": "^2.0.0"
+  },
+  "homepage": "https://github.com/serhii1205/js-code-snippets-patterns#readme"
+}
+
+
+
